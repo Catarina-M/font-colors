@@ -4,14 +4,14 @@ body, html {
   font-size: 1em;
 }
 
+/* --------------- Content area----------------- */
+
 section {
   width: 50%;
   margin: auto;
 }
 
-/* -------------- Smartphones larger than 375px----------- */
-@media (min-width: 375px){
-/* between 375px and 768px */
+
 h1 {
   color: #7b7b70;
   font-size: 2em;
@@ -24,7 +24,6 @@ h2 {
 
 p {
   color: #ff8641;
-}
 }
 
 /* -------------- Tablets larger than 768px----------- */
